@@ -60,9 +60,12 @@ DBA5101 Recycle Analysis Final …
 
 ## Repository Structure
 
-├── data/ # Input data (secured or dummy samples)
-├── notebooks/ # EDA, DiD, ITS, and bootstrap analyses
-├── scripts/ # Reproducible pipelines (cleaning, modeling)
-├── results/ # Tables, figures, and exported summaries
+.
+├── data/                 # Input data (secured or dummy samples)
+├── notebooks/            # EDA, DiD, ITS, bootstrap analyses
+├── scripts/              # Reproducible pipelines (cleaning, modeling)
+├── results/              # Tables, figures, exported summaries
 ├── README.md
-└── report/ # Final PDF/report
+└── report/               # Final PDF/report
+
+
